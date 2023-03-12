@@ -15,7 +15,6 @@
 ![GenerativeArt](Shadow.png)
 
 ```
-######
 def setup():
     size(400, 400)
     background(255, 255, 255)

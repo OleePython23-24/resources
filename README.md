@@ -14,7 +14,7 @@
 
 ![GenerativeArt](Shadow.png)
 
-```
+```python
 def setup():
     size(400, 400)
     background(255, 255, 255)
@@ -36,9 +36,6 @@ def setup():
         
     save("Examples/Shadow.png")
 ```
-
-
-
 ---
 <a name="top"></a>
 

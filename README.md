@@ -13,6 +13,8 @@
 
 ---
 ## Examples
+
+[alt text]("Shadow.png")
 ```
 def setup():
     size(400, 400)

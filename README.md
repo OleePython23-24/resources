@@ -12,6 +12,33 @@
 
 
 ---
+## Examples
+```
+def setup():
+    size(400, 400)
+    background(255, 255, 255)
+    
+    for c in range(150):
+        center_x=random(80, 350)
+        center_y=random(80, 350)
+        cs=50
+        
+        #drawShadow
+        no_stroke()
+        fill(15, 15, 15, 5)
+        for i in range(30):
+            circle(center_x, center_y, cs-i*5)
+            
+        stroke(30, 30, 30)
+        fill(random(50, 255), random(50, 255), random(200, 255))
+        circle(center_x-25, center_y-25, cs)
+        
+    save("Examples/Shadow.png")
+```
+
+
+
+---
 <a name="top"></a>
 
 ## py5 Reference Summary (API)

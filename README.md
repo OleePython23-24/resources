@@ -15,7 +15,7 @@
 ![GenerativeArt](Shadow.png)
 
 ```
-<font size="2">
+######
 def setup():
     size(400, 400)
     background(255, 255, 255)

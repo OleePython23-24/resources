@@ -15,7 +15,6 @@
 ## Examples
 
 ![GenerativeArt](Shadow.png)
-![Image 5](/images/SampleAssignmentSimple5.PNG) 
 
 ```
 def setup():

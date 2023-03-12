@@ -14,7 +14,7 @@
 ---
 ## Examples
 
-[GenerativeArt](Shadow.png)
+[GenerativeArt](https://github.com/OleePython23-24/resources/blob/main/Shadow.png)
 ```
 def setup():
     size(400, 400)

@@ -9,14 +9,13 @@
 * [Bucky!](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 ) - Video Tutorials!
 * [py5 API](https://py5coding.org/reference/summary.html) - the dictionary
-
-
 ---
 ## Examples
 
 ![GenerativeArt](Shadow.png)
 
 ```
+<font size="2">
 def setup():
     size(400, 400)
     background(255, 255, 255)
